@@ -1,0 +1,10 @@
+mem0ai[nlp]
+qdrant-client
+python-dotenv
+ollama
+kuzu
+fastembed
+google-genai
+spacy>=3.7
+fastcoref
+rapidfuzz
